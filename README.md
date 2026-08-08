@@ -178,8 +178,6 @@ Current practice areas:
 
 ---
 
-# 📊 GITHUB OPERATIONS
-
 <h2 align="center">📊 GITHUB OPERATIONS</h2>
 
 <div align="center">
