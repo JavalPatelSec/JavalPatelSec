@@ -232,9 +232,13 @@ Cybersecurity Career
 
 # 🌐 CONNECT
 
-Social links will be added here soon.
+<div align="center">
 
-`[ GitHub ]` ` [ LinkedIn ]` ` [ YouTube ]` ` [ Instagram ]`
+[![GitHub](https://img.shields.io/badge/GitHub-JavalPatelSec-181717?style=for-the-badge&logo=github)](https://github.com/JavalPatelSec)
+
+</div>
+
+Other Social links will be added here soon.
 
 ---
 
