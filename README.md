@@ -183,6 +183,7 @@ Current practice areas:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JavalPatelSec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavalPatelSec&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 
 <br/>
