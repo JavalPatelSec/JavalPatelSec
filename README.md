@@ -23,22 +23,6 @@
        alt="Sentinel 404 animated terminal">
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  NAME       : Sentinel 404                                           │
-│  IDENTITY   : Javal Patel                                            │
-│  USERNAME   : JavalPatelSec                                          │
-│  ROLE       : Cybersecurity Enthusiast / Aspiring SOC Analyst       │
-│  EDUCATION  : B.Tech Computer Science — Indus University             │
-│  NEXT STEP  : Master's in Computer Science                           │
-│  LOCATION   : Ahmedabad, India                                       │
-│                                                                      │
-│  MISSION    : Learn → Build → Investigate → Defend                   │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
 I am **Javal Patel**, building my path in cybersecurity with a strong interest in **Linux, networking, SOC analysis, threat detection, and security operations**.
 
 I have completed my **B.Tech in Computer Science from Indus University** and am preparing to pursue a **Master's in Computer Science** while continuing to develop practical cybersecurity skills.
@@ -131,6 +115,14 @@ I have completed my **B.Tech in Computer Science from Indus University** and am 
 </table>
 
 ---
+
+## ⚡ CYBERSECURITY BUILD STATUS
+
+<div align="center">
+  <img src="./assets/sentinel-404-skill-matrix.gif"
+       width="700"
+       alt="Sentinel 404 cybersecurity skill matrix">
+</div>
 
 # 🚀 FEATURED PROJECT
 
