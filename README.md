@@ -240,8 +240,6 @@ Cybersecurity Career
 
 </div>
 
-Other Social links will be added here soon.
-
 ---
 
 <div align="center">
