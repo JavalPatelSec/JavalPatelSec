@@ -227,23 +227,23 @@ Current practice areas:
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║              S E N T I N E L   4 0 4                     ║
+║              S E N T I N E L   4 0 4                       ║
 ║                                                            ║
-║              G I T H U B   O P E R A T I O N S            ║
+║              G I T H U B   O P E R A T I O N S             ║
 ║                                                            ║
-║   ┌──────────────┐     ┌──────────────┐                  ║
-║   │   LINUX      │     │     SOC      │                  ║
-║   │    ACTIVE    │     │   LEARNING   │                  ║
-║   └──────────────┘     └──────────────┘                  ║
+║   ┌──────────────┐     ┌──────────────┐                    ║
+║   │   LINUX      │     │     SOC      │                    ║
+║   │    ACTIVE    │     │   LEARNING   │                    ║
+║   └──────────────┘     └──────────────┘                    ║
 ║                                                            ║
-║   ┌──────────────┐     ┌──────────────┐                  ║
-║   │  NETWORKING  │     │   PYTHON     │                  ║
-║   │   BUILDING   │     │   BUILDING   │                  ║
-║   └──────────────┘     └──────────────┘                  ║
+║   ┌──────────────┐     ┌──────────────┐                    ║
+║   │  NETWORKING  │     │   PYTHON     │                    ║
+║   │   BUILDING   │     │   BUILDING   │                    ║
+║   └──────────────┘     └──────────────┘                    ║
 ║                                                            ║
-║             STATUS : [ O N L I N E ]                      ║
+║             STATUS : [ O N L I N E ]                       ║
 ║                                                            ║
-║          O B S E R V E  .  A N A L Y Z E  .  S E C U R E  ║
+║          O B S E R V E  .  A N A L Y Z E  .  S E C U R E   ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ---
