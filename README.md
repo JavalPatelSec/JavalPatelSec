@@ -119,9 +119,11 @@ I have completed my **B.Tech in Computer Science from Indus University** and am 
 ## ⚡ CYBERSECURITY BUILD STATUS
 
 <div align="center">
-  <img src="./assets/sentinel-404-skill-matrix.gif"
-       width="700"
-       alt="Sentinel 404 cybersecurity skill matrix">
+
+<img src="./assets/sentinel-404-skill-matrix.gif"
+     width="700"
+     alt="Sentinel 404 cybersecurity skill matrix"/>
+
 </div>
 
 # 🚀 FEATURED PROJECT
