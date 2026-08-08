@@ -188,43 +188,6 @@ Current practice areas:
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⚡
-
-**CONTRIBUTIONS**
-
-`10+`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔥
-
-**CURRENT STREAK**
-
-`1 DAY`
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟢
-
-**SYSTEM STATUS**
-
-`ONLINE`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
 # 📡 BUILD LOG
 
 ```text
