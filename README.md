@@ -180,18 +180,72 @@ Current practice areas:
 
 # 📊 GITHUB OPERATIONS
 
+<h2 align="center">📊 GITHUB OPERATIONS</h2>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JavalPatelSec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com?user=JavalPatelSec&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavalPatelSec&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡
+
+**CONTRIBUTIONS**
+
+`10+`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔥
+
+**CURRENT STREAK**
+
+`1 DAY`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🟢
+
+**SYSTEM STATUS**
+
+`ONLINE`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=JavalPatelSec&theme=github-dark-blue&hide_border=true" width="70%"/>
-
-</div>
-
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║              S E N T I N E L   4 0 4                     ║
+║                                                            ║
+║              G I T H U B   O P E R A T I O N S            ║
+║                                                            ║
+║   ┌──────────────┐     ┌──────────────┐                  ║
+║   │   LINUX      │     │     SOC      │                  ║
+║   │    ACTIVE    │     │   LEARNING   │                  ║
+║   └──────────────┘     └──────────────┘                  ║
+║                                                            ║
+║   ┌──────────────┐     ┌──────────────┐                  ║
+║   │  NETWORKING  │     │   PYTHON     │                  ║
+║   │   BUILDING   │     │   BUILDING   │                  ║
+║   └──────────────┘     └──────────────┘                  ║
+║                                                            ║
+║             STATUS : [ O N L I N E ]                      ║
+║                                                            ║
+║          O B S E R V E  .  A N A L Y Z E  .  S E C U R E  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ---
 
 # 📡 BUILD LOG
