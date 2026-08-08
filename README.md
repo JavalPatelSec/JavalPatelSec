@@ -17,6 +17,12 @@
 
 ## `> whoami`
 
+<div align="center">
+  <img src="./assets/sentinel-404-terminal.gif"
+       width="600"
+       alt="Sentinel 404 animated terminal">
+</div>
+
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
