@@ -187,6 +187,7 @@ Current practice areas:
 <img src="https://streak-stats.demolab.com?user=JavalPatelSec&theme=github-dark-blue&hide_border=true" width="75%" alt="GitHub contribution streak"/>
 
 <br/><br/>
+</div>
 
 # 📡 BUILD LOG
 
